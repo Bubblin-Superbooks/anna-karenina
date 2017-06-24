@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Anna Karenina",
-  "type": "text"
+  "type": "text",
+  "book_id": 456
 }
